@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: green;
+    color: white;
+    padding: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background: gold;
+    cursor: pointer;
+}
